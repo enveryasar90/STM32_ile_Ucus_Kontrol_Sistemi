@@ -30,7 +30,7 @@ Sistem temel olarak şu döngüyle çalışır:
 <p align="center">
   <img src="media/devre1.jpg" width="35%" alt="PS1 Kolu ve Potansiyometreler" />
   <img src="media/devre_genel.jpg" width="50%" alt="Genel Bakış" />
-  <img src="media/stm32.jpg" width="30%" alt="STM32 BAĞLANTISI" />
+  <img src="media/stm32.jpg" width="40%" alt="STM32 BAĞLANTISI" />
   <img src="media/stm32mx.jpg" width="30%" alt="STM32 MX" />
 </p>
 
